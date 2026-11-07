@@ -1,2 +1,4 @@
 * text=auto eol=lf
 .licenses/** -diff linguist-generated=true
+- name: Setup Go environment
+  uses: actions/setup-go@v7.0.0
